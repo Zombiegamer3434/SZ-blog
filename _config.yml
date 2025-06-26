@@ -23,7 +23,7 @@ email: Zombiegamer3434@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog, where I write to share and develop my ideas. If you are interested in sensible
   evidence based arguments and have an open mind, feel free to read through.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "SZ-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
